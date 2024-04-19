@@ -1,5 +1,5 @@
 //import React from 'react'
-import ChatList from "./src/components/list/chatList/ChatList"
+import ChatList from "./ChatList"
 import "./list.css"
 import Userinfo from "./userinfo/Userinfo"
 
