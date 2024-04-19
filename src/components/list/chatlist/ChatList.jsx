@@ -4,7 +4,7 @@ const ChatList = () =>
 {
     return
     (
-        <div className="chatList">ChatList</div>
+        <div className='chatList'>ChatList</div>
     )
 }
 

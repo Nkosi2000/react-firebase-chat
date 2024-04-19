@@ -1,3 +1,4 @@
+//http://localhost:5173/
 import Chat from "./components/chat/Chat"
 import List from "./components/list/List"
 import Detail from "./components/detail/Detail"

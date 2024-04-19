@@ -1,11 +1,11 @@
-import "./userinfo.css"
+import "./userInfo.css"
 
-const Userinfo = () =>
+const UserInfo = () =>
 {
     return 
     (
-        <div className="userinfo">Userinfo</div>
+        <div className="userInfo">UserInfo</div>
     );
 } 
 
-export default Userinfo
+export default UserInfo
