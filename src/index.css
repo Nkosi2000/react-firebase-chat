@@ -9,7 +9,7 @@
 
 body
 {
-  background-image: url("./public/kcp.jpg");
+  background-image: url("./kcp.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
